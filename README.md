@@ -24,4 +24,4 @@ In brief, i am looking forward for this platform to lead my journey in Machine L
 
 2. Exploring Android OS
 
-Android is The platform changing what mobile can do. Android is open to everyone: developers, designers and device makers. That means more people can experiment, imagine and create things the world has never seen. Android Studio provides the fastest tools for building apps on every type of Android device. with this tool I believe I can develop skills to create any applications
+Android is The platform changing what mobile can do. Android is open to everyone: developers, designers and device makers. That means more people can experiment, imagine and create things the world has never seen. Android Studio provides the fastest tools for building apps on every type of Android device. with this tool I believe I can develop my skills to create any applications
