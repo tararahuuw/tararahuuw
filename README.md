@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 📫 NIM : 13519077
 - ⚡ IG : tararahuuw
 - Linkedin : https://www.linkedin.com/in/muhammad-fahmi-alamsyah-0319521b4/
-- MyApp : 
+- MyApp : https://github.com/tararahuuw/My-Project-
 - MyGame : https://github.com/tararahuuw/ZeldaLite
