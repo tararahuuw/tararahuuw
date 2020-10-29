@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Institut Teknologi Bandung
-- 🌱 I’m currently learning Web Dev & App Dev
+- 🌱 I’m currently learning Game Dev & App Dev
 - 💬 Name : Muhammad Fahmi Alamsyah
 - 📫 NIM : 13519077
 - ⚡ IG : tararahuuw
